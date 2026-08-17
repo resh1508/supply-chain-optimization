@@ -1,1 +1,6 @@
-
+{
+    "model_version": "2.0.0",
+    "brier_score": 0.13348394310718945,
+    "delay_days_rmse": 0.4141568066775362,
+    "evaluation_timestamp": "2025-10-04 13:48:04"
+}
