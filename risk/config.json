@@ -1,1 +1,12 @@
-
+{
+  "SUPPLIER_RISK_WEIGHTS": {
+    "financial_health_score": 0.4,
+    "delivery_performance": 0.3,
+    "political_risk_index": 0.2,
+    "compliance_violations": 0.1
+  },
+  "ROUTE_RISK_WEIGHTS": {
+    "customs_clearance_hours": 0.5,
+    "weather_delay_hours": 0.5
+  }
+}
